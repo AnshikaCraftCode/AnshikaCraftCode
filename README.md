@@ -1,59 +1,91 @@
-<h1 align="center">
-  Hi 👋, I'm Ash
-</h1>
-
+<h1 align="center">Hi, I'm 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+Developer+in+Progress;Open+Source+Beginner;Learning+by+Building;Future+Software+Engineer" alt="Typing SVG" />
+  <i>Diploma Computer Science Student • Front-End Learner • Open Source Explorer</i>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z5M2M0dGZtcXo1ZzA0NmE4Y3N4Z2x0a3J1N2xkYmZ5eW9oZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
+<hr />
+
+<h2>🌷 About Me</h2>
+
+<p>
+  I’m a <b>Diploma Computer Science student</b> currently learning
+  <b>front-end development</b> and how real-world projects work using
+  <b>GitHub</b>.
 </p>
 
----
-
-## 🚀 About Me
-- 🎓 Diploma Computer Science Student  
-- 🌱 Currently learning **Frontend Development & GitHub**
-- 🧠 Interested in **Open Source & Real Projects**
-- ⚡ Belief: *Consistency beats talent*
-
----
-
-## 🛠 Tech Stack (Learning)
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p>
+  I enjoy improving my skills through <b>practical work</b>, exploring
+  <b>open-source projects</b>, and understanding how professional codebases
+  are structured.
 </p>
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" height="160"/>
+<p>
+  I’m also interested in <b>Artificial Intelligence</b>,
+  <b>Machine Learning</b>, and <b>Cybersecurity</b>, and plan to explore them
+  step by step as I grow.
 </p>
 
----
+<hr />
 
-## 🧩 Currently Working On
-- 🌐 Beginner frontend projects  
-- 🧑‍💻 First open-source contributions  
-- 📚 Improving Git & GitHub skills  
+<h2>🛠️ Skills & Technologies</h2>
 
----
+<h4>Frontend</h4>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 
-## 🌍 Connect With Me
+<h4>Programming Languages</h4>
+<ul>
+  <li>Java</li>
+  <li>C</li>
+  <li>C++</li>
+  <li>Python</li>
+</ul>
+
+<h4>Tools</h4>
+<ul>
+  <li>Git & GitHub</li>
+  <li>VS Code</li>
+</ul>
+
+<hr />
+
+<h2>🌱 Currently Learning</h2>
+
+<ul>
+  <li>Responsive front-end development</li>
+  <li>GitHub workflow (issues, pull requests, open source)</li>
+  <li>Working with real-world projects</li>
+</ul>
+
+<hr />
+
+<h2>🎯 Interests</h2>
+
+<ul>
+  <li>Open Source Contributions</li>
+  <li>Real-World Development Projects</li>
+  <li>AI & Machine Learning (Beginner Level)</li>
+  <li>Cybersecurity Fundamentals</li>
+  <li>Clean & User-Friendly UI Design</li>
+</ul>
+
+<hr />
+
+<h2>💡 Goals</h2>
+
+<ul>
+  <li>Build strong development fundamentals</li>
+  <li>Contribute meaningfully to open-source projects</li>
+  <li>Gain experience through practical coding</li>
+  <li>Grow into a confident software developer</li>
+</ul>
+
+<hr />
+
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blueviolet&style=flat" />
+  <i>Thanks for visiting my profile 🤍<br />
+  Learning, building, and improving every day.</i>
 </p>

@@ -74,7 +74,7 @@
 
 <hr />
 
-<h2>💡 Goals</h2>
+<h2>💡 Goals </h2>
 
 <ul>
   <li>Build strong development fundamentals</li>
